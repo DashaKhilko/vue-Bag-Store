@@ -8,8 +8,8 @@ import Home from './pages/Home.vue'
 import Favorites from './pages/Favorites.vue'
 
 const routes = [
-  { path: '/', name: 'home', component: Home },
-  { path: '/favorites', name: 'favorites', component: Favorites }
+  { path: '/vue-Bag-Store', name: 'home', component: Home },
+  { path: '/vue-Bag-Store/favorites', name: 'favorites', component: Favorites }
 ]
 
 const app = createApp(App)
