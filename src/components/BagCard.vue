@@ -19,7 +19,7 @@ const emit = defineEmits(['onClickAdd', 'onClickFavorite'])
       v-if="!props.favorites"
       class="absolute top-5 left-1 w-6 h-[23px]"
       @click="emit('onClickFavorite')"
-      :src="props.isFavorite ? 'liked.png' : '/unliked.png'"
+      :src="props.isFavorite ? 'liked.png' : 'unliked.png'"
       alt="Like"
     />
     <img class="w-[100%]" :src="props.imageUrl" alt="Bag" />
