@@ -9,7 +9,7 @@ const emit = defineEmits(['openDrawer'])
   <header
     class="flex justify-between border-b border-slate-600 border-opacity-70 px-8 py-8 flex-col md:flex-row"
   >
-    <router-link to="/">
+    <router-link to="/vue-Bag-Store">
       <div class="flex items-center">
         <img class="h-14 mx-auto md:mx-0" src="/public/logo.png" alt="Logo" />
       </div>
@@ -27,7 +27,7 @@ const emit = defineEmits(['openDrawer'])
           {{ props.countDrawerItems }}
         </span>
       </li>
-      <router-link to="/favorites">
+      <router-link to="/vue-Bag-Store/favorites">
         <li class="flex items-center gap-3 text-slate-300 hover:text-black cursor-pointer">
           <img src="/public/heart.svg" alt="Like" />
         </li>
