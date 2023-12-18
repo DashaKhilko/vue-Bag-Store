@@ -9,7 +9,7 @@ const emit = defineEmits(['openDrawer'])
   <header
     class="flex justify-between border-b border-slate-600 border-opacity-70 px-8 py-8 flex-col md:flex-row"
   >
-    <router-link to="/vue-Bag-Store">
+    <router-link to="/vue-Bag-Store/">
       <div class="flex items-center">
         <img class="h-14 mx-auto md:mx-0" src="/public/logo.png" alt="Logo" />
       </div>
