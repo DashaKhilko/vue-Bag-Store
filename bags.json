@@ -1,0 +1,142 @@
+[
+    {
+    "id": 1,
+    "imageUrl": "public/bags/1.jpg",
+    "title": "Кожаный женский рюкзак",
+    "model": "VEZZE C00164N",
+    "price": 290.00
+    },
+    {
+    "id": 2,
+    "imageUrl": "public/bags/2.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C00156N",
+    "price": 320.00
+    },
+    {
+    "id": 3,
+    "imageUrl": "public/bags/3.jpg",
+    "title": "Кожаный женский рюкзак",
+    "model": "VEZZE C0021N",
+    "price": 350.00
+    },
+    {
+    "id": 4,
+    "imageUrl": "public/bags/4.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C00168N",
+    "price": 445.00
+    },
+    {
+    "id": 5,
+    "imageUrl": "public/bags/5.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C00839",
+    "price": 345.00
+    },
+    {
+    "id": 6,
+    "imageUrl": "public/bags/6.jpg",
+    "title": "Кожаный женский рюкзак",
+    "model": "VEZZE C001021",
+    "price": 285.00
+    },
+    {
+    "id": 7,
+    "imageUrl": "public/bags/7.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C00174N",
+    "price": 280.00
+    },
+    {
+    "id": 8,
+    "imageUrl": "public/bags/8.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C00176N",
+    "price": 305.00
+    },
+    {
+    "id": 9,
+    "imageUrl": "public/bags/9.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C00145N",
+    "price": 330.00
+    },
+    {
+    "id": 10,
+    "imageUrl": "public/bags/10.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C001050",
+    "price": 315.00
+    },
+    {
+    "id": 11,
+    "imageUrl": "public/bags/11.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C0029N",
+    "price": 250.00
+    },
+    {
+    "id": 12,
+    "imageUrl": "public/bags/12.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C00149N",
+    "price": 280.00
+    },
+    {
+    "id": 13,
+    "imageUrl": "public/bags/13.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C001002",
+    "price": 310.00
+    },
+    {
+    "id": 14,
+    "imageUrl": "public/bags/14.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C00166N",
+    "price": 365.00
+    },
+    {
+    "id": 15,
+    "imageUrl": "public/bags/15.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C00163N",
+    "price": 295.00
+    },
+    {
+    "id": 16,
+    "imageUrl": "public/bags/16.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C00160N",
+    "price": 405.00
+    },
+    {
+    "id": 17,
+    "imageUrl": "public/bags/17.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C00101N",
+    "price": 340.00
+    },
+    {
+    "id": 18,
+    "imageUrl": "public/bags/18.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C00138N",
+    "price": 340.00
+    },
+    {
+    "id": 19,
+    "imageUrl": "public/bags/19.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C001033",
+    "price": 325.00
+    },
+    {
+    "id": 20,
+    "imageUrl": "public/bags/20.jpg",
+    "title": "Кожаная женская сумка",
+    "model": "VEZZE C00147N",
+    "price": 325.00
+    }
+]
